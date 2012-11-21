@@ -1,0 +1,3 @@
+"HMLanguageDirection" = "ltr"
+"Hello World" = "Bonjour!"
+"Another key" = "FR Value for another key"

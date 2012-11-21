@@ -1,0 +1,3 @@
+"HMLanguageDirection" = "rtl"
+"Hello World" = "مرحباً!"
+"Another key" = "AR Value for another key"
