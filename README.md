@@ -12,3 +12,7 @@ Features
 Support
 -------
 HMLocalization currently supports ARC only. Non-ARC support is coming soon.
+
+Usage
+-----
+Included is a demo project showing how to use the framework in addition to changing the language of the app and refreshing the UI without having to relaunch it.
